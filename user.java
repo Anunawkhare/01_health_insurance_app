@@ -2,9 +2,7 @@
 class user{
 
 	int a=10;
-
-  boolean status=true;
+	boolean status=true;
+	
+	double price = 10.40;
 }
-
-
-this is sample text data
